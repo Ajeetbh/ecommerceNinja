@@ -1,0 +1,36 @@
+.about2{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: left;
+    margin: 220px 220px;
+    margin-top: 70px;
+    margin-bottom: 5px;
+    height:705px;
+}
+
+
+.about2-info{
+    display: flex;
+    flex-direction: column;
+    background-color:gainsboro;
+    padding: 30px;
+   
+} 
+
+.about2-info h1{
+    text-align: left;
+    float: left;
+    justify-content: center;
+    padding-left: 150px;
+    font-weight: 800;
+} 
+.about2-info p{
+    text-align: left;
+    float: left;
+    justify-content: center;
+    padding-left: 150px;
+    font-size: 20px;
+    color: gray;
+    padding-right: 20px;
+} 

@@ -1,0 +1,9 @@
+.footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    background-color: skyblue;
+    padding: 5px;
+  }
+  

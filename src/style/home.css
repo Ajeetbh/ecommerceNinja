@@ -1,0 +1,121 @@
+.home_info{
+    display:inline-flex;
+    position: relative;
+}
+
+.info-detail{
+    font-size: 20px;
+    float: left;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.info-detail h1{
+    font-size: 35px;
+    float: left;
+    margin-top: 80px;
+}
+.info-detail p{
+    font-size: 18px;
+    float: left;
+    margin-bottom: 60px;
+}
+.info-detail span{
+    width: 25px;
+    height: 20px;
+    background-color: rgb(140, 209, 140);
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.info-detail span:hover{
+    background-color: limegreen;
+}
+.info-image{
+   width: 900px;
+   height: 500px;
+}
+
+
+.about1{
+    display:flex;
+    flex-direction: row;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.about1-info p{
+    font-size: 18px;
+    float: left;
+    margin-bottom: 60px;
+    margin-right: 150px; 
+    color: gray;
+}
+
+.about1-info{
+    font-size: 20px;
+    float: left;
+    text-align: left;
+    margin-left: 150px;
+}
+.about1-info span{
+    width: 80px;
+    height: 20px;
+    background-color: rgb(140, 209, 140);
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.about1-info span:hover{
+    background-color: rgb(140, 209, 140);
+}
+.about1-image{
+    margin-right: 200px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.about1-image h2{
+    color: forestgreen;
+    font-weight: 200px;
+    font-size: 40px;
+}
+
+.fresh-product{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(223, 227, 233);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1{
+    font-weight: 800;
+    padding-bottom: 40px;
+}
+.header span{
+    color: orange;
+}
+.span span{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(140, 209, 140);
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    border-radius: 8px;
+}

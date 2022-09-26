@@ -1,0 +1,72 @@
+.career{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.careerInfo{
+    width: 500px;
+    margin-left: 30px;
+    text-align: left;
+    justify-content: center;
+}
+.careerInfo h2{
+    font-weight: 800;
+}
+.careerInfo p{
+    margin-bottom: 60px;
+    margin-right: 70px;
+}
+.careerImage{
+    width: auto;
+    padding-right: 50px;
+}
+.careerInfo span{
+    width: 25px;
+    height: 20px;
+    background-color: rgb(140, 209, 140);
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.info{
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.info h1{
+    font-weight: 800;
+}
+.info p{
+    color: grey;
+    font-size: 20px;
+}
+.info span{
+    font-weight: 600;
+    color: rgb(53, 172, 53);
+}
+
+.info1{
+    background-color: rgb(233, 224, 224);
+    text-align: left;
+    height: 200px;
+    padding-top: 30px;
+}
+.info1 h1{
+    margin-left: 150px;
+    font-weight: 800;
+}
+.info1 p{
+    margin-left: 150px;
+    margin-right: 80px;
+    padding-bottom: 50px;
+    color: gray;
+}
+.info1 span{
+    color: rgb(53, 172, 53);
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+
+.navbar{
+    position: relative;
+    padding: 5px;
+  }
+  
+  .navbar li{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .navbar li a{
+    text-decoration: none;
+  }
+  .home{
+    color: green;
+  }
+  .navbar li a:hover{
+    color: green;
+  }
+  
+  .navbar .logo{
+    color: forestgreen;
+    font-weight: 600;
+    float: left;
+    font-size: 50px;
+    margin-left: 80px;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  
+
+   
+   
